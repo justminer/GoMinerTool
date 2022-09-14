@@ -4,7 +4,7 @@
 
 VERSION="2.8.6"
 
-DOWNLOAD_HOST="https://github.com/MinerProxyBTC/GoMinerTool/raw/main/Linux-64"
+DOWNLOAD_HOST="https://github.com/justminer/GoMinerTool/blob/main/linux-install.sh"
 
 
 PATH_KT="/root/GoMinerTool"
