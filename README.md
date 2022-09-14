@@ -9,7 +9,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-<!-- ![Github stars](https://img.shields.io/github/stars/MinerProxyBTC/GoMinerTool.svg) -->
+<!-- ![Github stars](https://img.shields.io/github/stars/justminer/GoMinerTool.svg) -->
 
 # GoMinerTool
   <p align="center">
